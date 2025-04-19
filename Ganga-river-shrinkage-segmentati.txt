@@ -1,0 +1,27 @@
+📁 ganga-river-shrinkage-segmentation
+│
+├── 📄 README.md
+├── 📄 requirements.txt
+├── 📄 .gitignore
+│
+├── 📁 data/                  # Exported GeoTIFFs, masks, samples
+│   ├── NDWI_2014.tif
+│   └── NDWI_2025.tif
+│
+├── 📁 notebooks/             # Colab-ready or Jupyter notebooks
+│   └── segmentation_vit.ipynb
+│   └── data_extraction_gee.ipynb
+│
+├── 📁 scripts/               # Clean, reusable .py scripts
+│   └── model_training.py
+│   └── shrinkage_analysis.py
+│   └── utils.py
+│
+├── 📁 models/                # Saved trained models
+│   └── vit_model.pth
+│
+├── 📁 figures/               # Plots, diagrams, visual results
+│   └── shrinkage_map.png
+│   └── before_after.png
+│
+└── 📄 LICENSE (MIT)
