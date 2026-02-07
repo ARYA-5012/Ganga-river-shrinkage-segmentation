@@ -382,7 +382,7 @@ This research was presented at the **3rd International Conference on MAchine inT
 
 ### Certificate
 
-![Conference Certificate](assets/conference_certificate.png)
+![Conference Certificate](conference_certificate.png)
 
 ---
 
@@ -416,3 +416,4 @@ For questions, suggestions, or collaboration opportunities:
 ---
 
 **Made with ❤️ for environmental conservation and river health monitoring**
+
